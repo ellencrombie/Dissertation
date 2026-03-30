@@ -1,0 +1,33 @@
+﻿site,block_number,treatment,species,n_concentration_mg_per_g,p_concentration_mg_per_g,N:P
+Dundreggan,1,Screefed,Birch,9.4835,0.9033,10.49883589
+Dundreggan,1,Uncultivated,Birch,9.8551,1.2026,8.194874514
+Dundreggan,1,Screefed,Pine,5.7438,0.4416,13.00796357
+Dundreggan,1,Uncultivated,Pine,7.0004,0.5210,13.4364911
+Dundreggan,2,Screefed,Birch,8.8856,1.1800,7.530205014
+Dundreggan,2,Uncultivated,Birch,8.5464,0.9551,8.948283945
+Dundreggan,2,Screefed,Pine,9.2722,0.4531,20.4642896
+Dundreggan,2,Uncultivated,Pine,7.1681,0.4430,16.18085943
+Dundreggan,3,Screefed,Birch,7.9350,1.1618,6.82971266
+Dundreggan,3,Uncultivated,Birch,7.9874,1.4410,5.542943841
+Dundreggan,3,Screefed,Pine,7.9595,0.5060,15.73070306
+Dundreggan,3,Uncultivated,Pine,6.8468,0.5015,13.65286007
+Dundreggan,4,Screefed,Birch,10.3121,1.2887,8.001875849
+Dundreggan,4,Uncultivated,Birch,9.4301,1.1249,8.383258231
+Dundreggan,4,Screefed,Pine,7.5713,0.4940,15.32623695
+Dundreggan,4,Uncultivated,Pine,4.5777,0.3579,12.7921306
+Glen Shieldaig,5,Mounded,Birch,25.1753,0.3676,68.47945005
+Glen Shieldaig,5,Uncultivated,Birch,6.9613,0.4499,15.47473666
+Glen Shieldaig,5,Mounded,Pine,12.1878,0.2690,45.30788621
+Glen Shieldaig,5,Uncultivated,Pine,4.0831,1.5215,2.683625139
+Glen Shieldaig,6,Mounded,Birch,16.5470,0.4731,34.9791141
+Glen Shieldaig,6,Uncultivated,Birch,7.6059,0.4356,17.46212129
+Glen Shieldaig,6,Mounded,Pine,12.2999,0.4636,26.5306513
+Glen Shieldaig,6,Uncultivated,Pine,4.2088,0.3606,11.67039017
+Glen Shieldaig,7,Screefed,Birch,8.8725,0.9710,9.13725264
+Glen Shieldaig,7,Uncultivated,Birch,8.0323,0.4771,16.83434308
+Glen Shieldaig,7,Screefed,Pine,3.4529,0.3317,10.41027556
+Glen Shieldaig,7,Uncultivated,Pine,3.7853,0.3639,10.40182439
+Glen Shieldaig,8,Screefed,Birch,8.7363,0.4115,21.22873345
+Glen Shieldaig,8,Uncultivated,Birch,6.9282,0.4431,15.63515578
+Glen Shieldaig,8,Screefed,Pine,3.5858,0.3137,11.43115493
+Glen Shieldaig,8,Uncultivated,Pine,3.4169,0.3270,10.4485974
